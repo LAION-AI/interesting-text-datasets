@@ -54,3 +54,7 @@ https://huggingface.co/datasets/pile-of-law/pile-of-law
 
 
 Scientific papers:
+
+Translation:
+https://huggingface.co/datasets/opus100
+
