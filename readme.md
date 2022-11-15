@@ -4,7 +4,7 @@ Books & Documents:
 
 https://huggingface.co/datasets/the_pile_books3
 
-http://annas-blog.org/blog-3x-new-books.html
+https://the-eye.eu/libraries.html
 
 https://archive.org/details/fanfictiondotnet_repack
 
