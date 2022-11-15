@@ -12,6 +12,7 @@ https://the-eye.eu/public/Random/torrents/archiveorg_DjVuTXT_Part1.torrent
 https://the-eye.eu/public/Books/
 https://the-eye.eu/public/Site-Dumps/campdivision.com/camp/Text%20Files/Miscellaneous%20Texts/
 https://the-eye.eu/public/Site-Dumps/campdivision.com/camp/Text%20Files/PDF/
+https://huggingface.co/datasets/bookcorpusopen
 
 Largescale Webtext:
 https://huggingface.co/datasets/oscar
@@ -21,6 +22,7 @@ https://huggingface.co/datasets/the_pile
 Code:
 https://huggingface.co/datasets/bigcode/the-stack-dedup
 https://huggingface.co/datasets/code_search_net
+https://huggingface.co/datasets/codeparrot/github-code
 
 Law:
 https://openreview.net/forum?id=3HCT3xfNm9r
