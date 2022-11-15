@@ -14,11 +14,18 @@ https://the-eye.eu/public/Site-Dumps/campdivision.com/camp/Text%20Files/Miscella
 https://the-eye.eu/public/Site-Dumps/campdivision.com/camp/Text%20Files/PDF/
 
 Largescale Webtext:
-
+https://huggingface.co/datasets/oscar
+https://huggingface.co/datasets/mc4
+https://huggingface.co/datasets/the_pile
 
 Code:
+https://huggingface.co/datasets/bigcode/the-stack-dedup
+https://huggingface.co/datasets/code_search_net
 
 Law:
 https://openreview.net/forum?id=3HCT3xfNm9r
+https://huggingface.co/datasets/pile-of-law/pile-of-law
+
+
 
 Scientific papers:
