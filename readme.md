@@ -40,6 +40,8 @@ https://huggingface.co/datasets/arabic_billion_words
 
 https://huggingface.co/datasets/olm/wikipedia
 
+https://huggingface.co/datasets/cc100
+
 
 
 
