@@ -18,6 +18,9 @@ Largescale Webtext:
 https://huggingface.co/datasets/oscar
 https://huggingface.co/datasets/mc4
 https://huggingface.co/datasets/the_pile
+https://huggingface.co/datasets/spanish_billion_words
+
+
 
 Code:
 https://huggingface.co/datasets/bigcode/the-stack-dedup
