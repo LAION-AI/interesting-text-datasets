@@ -32,6 +32,9 @@ https://huggingface.co/datasets/the_pile
 
 https://huggingface.co/datasets/spanish_billion_words
 
+https://huggingface.co/datasets/olm/wikipedia
+
+
 
 
 Code:
