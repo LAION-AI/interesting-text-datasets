@@ -23,6 +23,9 @@ https://the-eye.eu/public/Site-Dumps/campdivision.com/camp/Text%20Files/PDF/
 
 https://huggingface.co/datasets/bookcorpusopen
 
+https://huggingface.co/datasets/demelin/moral_stories
+
+
 Largescale Webtext:
 https://huggingface.co/datasets/oscar
 
