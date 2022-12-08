@@ -10,7 +10,7 @@ https://archive.org/details/fanfictiondotnet_repack
 
 https://archive.org/details/Fanfictiondotnet1011dump
 
-https://archive.org/details/Fanfictiondump114
+fanfiction.net ID 11M+ should get scraped
 
 https://the-eye.eu/public/Random/torrents/archiveorg_DjVuTXT_Part1.torrent
 
