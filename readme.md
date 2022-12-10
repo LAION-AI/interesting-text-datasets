@@ -25,6 +25,8 @@ https://huggingface.co/datasets/bookcorpusopen
 
 https://huggingface.co/datasets/demelin/moral_stories
 
+Subs:
+https://the-eye.eu/public/Random/archive.org_dumps/archive.org_tvarchive_CaptionProject_December1st2022.tar.zst
 
 Largescale Webtext:
 
