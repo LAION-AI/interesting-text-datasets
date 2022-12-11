@@ -16,6 +16,8 @@ https://the-eye.eu/public/Random/torrents/archiveorg_DjVuTXT_Part1.torrent
 
 https://the-eye.eu/public/Books/
 
+all ebook torrents from piratebay: https://pirate-bays.net/search?q=ebooks
+
 
 https://the-eye.eu/public/Site-Dumps/campdivision.com/camp/Text%20Files/Miscellaneous%20Texts/
 
