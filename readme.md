@@ -118,7 +118,18 @@ https://huggingface.co/datasets/olm/wikipedia
 
 https://huggingface.co/datasets/cc100
 
-https://files.pushshift.io/reddit/comments/
+
+https://files.pushshift.io/reddit/comments/ 
+https://arxiv.org/abs/2001.08435
+
+Description:
+Reddit comments dumps
+
+On s3: Not yet
+
+Converted to training format: not yet
+
+
 
 https://the-eye.eu/public/social/twitter/
 
