@@ -85,7 +85,6 @@ On s3: Yes.
 Converted to training format: not yet
 
 
-
 https://huggingface.co/datasets/bookcorpusopen
 
 https://huggingface.co/datasets/demelin/moral_stories
@@ -153,3 +152,6 @@ Scientific papers:
 Translation:
 https://huggingface.co/datasets/opus100
 
+
+Public domain ebooks (67k) categorised by [Locc](https://en.wikipedia.org/wiki/Library_of_Congress_Classification), multilingual collection:
+https://www.gutenberg.org/ebooks/ 
